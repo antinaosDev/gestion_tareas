@@ -1,0 +1,7 @@
+{
+  "name": "Checklist de Salud con Pertinencia Cultural",
+  "description": "Una aplicación de checklist interactiva para gestionar y monitorear la implementación del Modelo de Salud con Pertinencia Cultural, enriquecida con herramientas de IA de Gemini para asistencia, análisis y comunicación.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
